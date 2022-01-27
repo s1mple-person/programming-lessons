@@ -1,0 +1,6 @@
+let message;
+let message;
+message = 'Hello'; // сохранить строку
+let message;
+message = 'Hello!';
+console.log(message); // показывает содержимое переменной
